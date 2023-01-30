@@ -1,0 +1,41 @@
+body{
+    max-width: 576px;
+}
+.container{ /* CSS CONTAINER TOUTE LA PAGE*/
+    width:100%;
+    box-sizing: border-box;  
+}
+main{ /* TAILLE DES CARACTETRES MAIN*/
+    font-size: 0.8em;  
+}
+#services{ /* CSS SECTION SERVICES*/
+    background-color:#91EADF;
+    font-size: 0.8em;
+}
+#section_demarches{ /* BACKGROUND HAUTEURS LARGEURS DES SECTION SOINS DENTAIRES, ORTHODONITE, IMPLATOLOGIE ET PARODONTOLOGIE*/
+    background-color: #91EADF;
+    width: 200px;
+    height : 200px;
+}
+#urgence{/* CSS SECTION URGENCE*/
+    color: #F4807B;
+    background-color:#EAEAEA;
+}
+.positioned { /* POSITION POUR LES DEUX IMAGES ARRIERE PLAN DE LA PAGE SERVICES*/
+    position: relative; 
+  }
+#image_services{ /* CSS pour l'image 1 derriere les 4 sections de la section 8 rubriques*/
+    background-image: url(../assets/image/image_services.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;    
+}
+#image_services2{ /* CSS pour l'image 2 derriere les 4 sections de la section 8 rubriques*/
+    background-image: url(../assets/image/slider2.jpg);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;    
+}
+#copiraght{ /* CSS FOOTER COPIRAGHT*/
+    background-color: #91EADF;
+}

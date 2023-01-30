@@ -1,0 +1,52 @@
+body{
+    max-width: 576px;
+}
+
+.container{ /* CSS CONTAINER TOUTE LA PAGE*/
+    width:100%;
+    box-sizing: border-box;
+}
+.espace{
+    padding:5% 5%;
+}  
+.img-accueil{ /*CSS IMAGE D'ACCUEIL*/
+    background-image: url("../assets/image/imgAccueil1.png");
+    background-size: cover;
+}
+.taille{  /*HAUTEUR IMAGE D'ACCUEIL*/
+    height:300px;
+}
+/*RUBRIQUE RENDEZ-VOUS*/
+#rendez-vous{
+    background-color:#91EADF;
+    font-size: 0.7em;
+}
+#urgence{ /* CSS SECTION URGENCE*/
+    color: #F4807B;
+    background-color:#EAEAEA;
+}
+ #section_demarches{
+    background-color: #91EADF;
+    width: 200px;
+    height : 200px;
+    
+ }
+
+ .positioned { /* POSITION POUR L'IMAGE ARRIERE PLAN DE LA PAGE D4ACCUEIL INDEX*/
+    position: relative; 
+    bottom: 30px;
+    left: 110px;
+  }
+#image_services{ /*CSS IMAGE D'ARRIERES PLAN DE LA SECTION CONSEILS DE LA PAGE D'ACCUEIL INDEX*/
+    background-image: url(../assets/image/slider1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;    
+}
+
+
+
+#copiraght{ /* CSS FOOTER COPIRAGHT*/
+    background-color: #91EADF;
+}
+

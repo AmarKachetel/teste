@@ -1,0 +1,28 @@
+body{
+    max-width: 576px;
+}
+.container{  /* CSS CONTAINER TOUTE LA PAGE*/
+    width:100%;
+    box-sizing: border-box;
+    line-height: 2;
+}
+.espace{
+    padding:5% 5%;
+} 
+#contacts{ /* CSS SECTION CONTACT*/
+    background-color:#91EADF;
+    font-size: 0.7em;
+}
+#contact{ /*TAILLE DE CARACTERES DE LA PAGE CONTACT*/
+    font-size: 0.6em;
+}
+#urgence{ /* CSS SECTION URGENCE*/
+    color: #F4807B;
+    background-color:#EAEAEA;
+}
+.section3{ /* ESPACE ENTRE LES LIGNES DE LA SECTION 3 DE LA PAGE CONTACT*/
+    line-height: 3;  
+}
+#copiraght{ /* CSS FOOTER COPIRAGHT*/
+    background-color: #91EADF;
+}

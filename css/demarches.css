@@ -1,0 +1,35 @@
+
+body{
+    max-width: 576px;
+}
+
+.container{ /* CSS CONTAINER TOUTE LA PAGE*/
+    width:100%;
+    box-sizing: border-box;
+}
+.espace{
+    padding:5% 5%;
+} 
+#demarches{ /* CSS SECTION DEMARCHES*/
+    background-color:#91EADF;
+    font-size: 0.7em;
+}
+#section_demarches{ /* BACKGROUND HAUTEURS LARGEURS DES SECTION SOINS DENTAIRES, ORTHODONITE, IMPLATOLOGIE ET PARODONTOLOGIE*/
+    background-color: #91EADF;
+    width: 180px;
+    height : 180px;
+}
+p{   /* CSS PARAGRAPHE DE SECTION DEMARCHES*/
+font-size: 0.6em;
+text-align: right;
+text-align: justify;
+}
+#urgence{ /* CSS SECTION URGENCE*/
+    color: #F4807B;
+    background-color:#EAEAEA;
+}
+#copiraght{ /* CSS FOOTER COPIRAGHT*/
+    background-color: #91EADF;
+}
+
+

@@ -1,0 +1,12 @@
+.container{ /* CSS CONTAINER TOUTE LA PAGE*/
+    background-color:#91EADF ;
+    height: 800px;
+    padding-left: 20%;
+}
+.bouton_ferme{ /* CSS BOUTON FERMER DU MENU*/
+    background-color:#91EADF ;
+    padding: 3% 3%;
+}
+#reseau_sociaux{ /* CSS ICONES RESEAUX SOCIAUX FACEBOOK ET INSTAGRAM*/
+    padding-right: 20%;
+}
